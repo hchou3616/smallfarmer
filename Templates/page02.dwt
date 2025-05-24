@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Cactus -Cactus In The Room-</title>
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet">
+<link href="../css/cactus.css" rel="stylesheet">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="logo" type="boolean" value="true" -->
+</head>
+
+<body>
+<main>
+<header class="cactus"><!-- TemplateBeginIf cond="logo" -->
+  <h1><img src="../images/logo2.png" width="285" height="122" alt="Cactus In The Room"></h1>
+<!-- TemplateEndIf -->
+  <p><img src="../images/headerBack.jpg" width="1160" height="300" alt=""></p>
+	<nav>
+      <ul class="clearfix">
+        <li><a href="../index.htm"><img src="../images/menu_top.png" width="66" height="23" alt="首頁"></a></li>
+        <li class="current"><img src="../images/menu_product_red.png" width="122" height="26" alt="商品"></li>
+        <li><img src="../images/menu_guide.png" width="86" height="26" alt="導覽"></li>
+        <li><img src="../images/menu_onlineshop.png" width="148" height="25" alt="線上商店"></li>
+        <li><img src="../images/menu_contact.png" width="108" height="20" alt="聯絡我們"></li>
+        <li><img src="../images/menu_search.png" width="100" height="26" alt="搜尋"></li>
+      </ul>
+    </nav>
+</header>
+<!-- TemplateBeginEditable name="contents" -->
+<section class="cactusContents">
+  <h2>Cactus</h2>
+</section>
+<!-- TemplateEndEditable -->
+<footer>
+    <ul class="clearfix">
+      <li><img src="../images/menu_top.png" width="66" height="23" alt="首頁"></li>
+      <li><img src="../images/menu_product.png" width="122" height="26" alt="商品"></li>
+      <li><img src="../images/menu_guide.png" width="86" height="26" alt="導覽"></li>
+      <li><img src="../images/menu_onlineshop.png" width="148" height="25" alt="線上商店"></li>
+      <li><img src="../images/menu_contact.png" width="108" height="20" alt="聯絡我們"></li>
+    </ul>
+    <ul class="submenu clearfix">
+      <li>公司概要</li>
+      <li>特定商業交易法</li>
+      <li>個資保護方針</li>
+    </ul>
+  </footer>
+</main>
+</body>
+</html>
